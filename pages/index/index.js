@@ -23,7 +23,7 @@ Page({
     windDirection: '',
     //因为数据返回不是数组所以要自己封装一个数组
     list: [],
-    height: 0,
+    height: 663,
 
 
   },
