@@ -1,5 +1,5 @@
 <!--100%布局好像不好使-->
-<view class="container" style="background-image: url(../../image/bg.jpg); height: {{height}}px">
+<view class="container" style="background-image: url(../../image/bg.jpg); height: 100vh">
 <loading hidden="{{loadingHidden}}">加载天气...</loading>
 <view class="newTopView">
 <!--左边添加当前城市名字，点击跳转选择城市 右边添加刷新当前天气-->
